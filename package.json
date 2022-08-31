@@ -1,0 +1,27 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "P14 jQuery for testing performance to compare with same app in React",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenClassrooms-Student-Center/P12_Front-end.git"
+  },
+  "keywords": [
+    "p14",
+    "test",
+    "performance",
+    "jQuery",
+    "vs",
+    "React"
+  ],
+  "author": "OpenClassrooms",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OpenClassrooms-Student-Center/P12_Front-end/issues"
+  },
+  "homepage": "https://github.com/OpenClassrooms-Student-Center/P12_Front-end#readme"
+}
